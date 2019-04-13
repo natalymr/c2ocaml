@@ -1,4 +1,4 @@
-SRCS = $(wildcard 1/*.c)
+SRCS = $(wildcard */*.c)
 
 PROGS = $(patsubst %.c,%,$(SRCS))
 
