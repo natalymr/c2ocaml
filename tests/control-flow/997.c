@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int factors(int n,int min)
 {
      int varieties=0,i;
